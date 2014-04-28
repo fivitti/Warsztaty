@@ -1,5 +1,7 @@
-zmienna = 5
-while zmienna > 0:
-	print zmienna
-	zmienna -= 1
+i = 5
+while i > 0:
+	print i
+	i -= 1
 print "Koniec!"
+
+prnitl "To jednak nie koniec!"
