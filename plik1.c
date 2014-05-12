@@ -1,5 +1,10 @@
 
 #include<iostream>
+#include<fstream>
+#include<windows.h>
+#include<string>
+#includ<cmath>
+
 
 using namespace stdd;
 
