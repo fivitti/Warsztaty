@@ -11,3 +11,7 @@ int main()
        cout<<j;
 
 }
+int powieksz(int a)
+{
+	return a + 1;
+}
