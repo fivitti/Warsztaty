@@ -18,6 +18,6 @@ int main()
 }
 int inc(int a)
 {
-	int b =a+1;
-	return b;
+	int c = a - 3;
+	return c * 2;
 }
