@@ -16,7 +16,8 @@ int main()
        cout<<j;
 
 }
-int powieksz(int a)
+int powiekszWiecej(int a)
 {
-	return a + 1;
+	int c = a - 3;
+	return c * 2;
 }
